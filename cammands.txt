@@ -1,0 +1,9 @@
+These are the imp git cammand
+git init
+git status
+git log
+git diff
+git add
+git commit -m
+git restore commitid
+
