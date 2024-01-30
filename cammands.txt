@@ -6,4 +6,4 @@ git diff
 git add
 git commit -m
 git restore commitid
-
+git clone repo url
